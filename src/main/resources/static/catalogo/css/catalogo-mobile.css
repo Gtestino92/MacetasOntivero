@@ -1,0 +1,32 @@
+@media only screen and (max-width: 1200px) {
+
+	#carrito-card {
+		display:none;
+		position:fixed;
+		bottom:0;left:0;
+		width:100%;
+		padding:1em;
+		border-top:1px solid;
+		background-color:green;
+		color:#fff;
+		z-index:29
+	}
+		
+	#carrito-button {
+		display:none;
+	}
+	
+	#carrito-aux {
+		display:none;
+		
+	}
+
+
+}	
+
+	
+	
+	
+	
+	
+}
